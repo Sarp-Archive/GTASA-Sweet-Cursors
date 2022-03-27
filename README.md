@@ -1,6 +1,7 @@
 # Sweet Cursors for GTA:SA
 Sweet Cursor pack for GTA:SA. Made with TXD Workshop.
-I extracted the pointer file from this package and applied to GTA:SA. Original Sweet Cursors package for Linux DE's: [Sweet Cursors](https://www.pling.com/p/1393084/)
+I extracted the pointer file from this package and applied to GTA:SA. 
+Original Sweet Cursors package for Linux DE's: [Sweet Cursors](https://www.pling.com/p/1393084/)
 
 ### Why i made this?
 I use Sweet Cursors pack on Linux and I wanted to apply the pack to GTA:SA. Because why not?
